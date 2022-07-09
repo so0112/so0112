@@ -1,5 +1,6 @@
 ### Hi there 👋
 https://velog.io/@soshin0112
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
 
