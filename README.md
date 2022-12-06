@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://so0112.tistory.com
 
 ### Tech stack
 <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
