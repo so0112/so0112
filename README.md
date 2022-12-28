@@ -4,7 +4,7 @@
 
 ## Tech stack
 ### FrameWork
-<img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=NextJS">
+<img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=Next.JS">
 
 
 ### Language
