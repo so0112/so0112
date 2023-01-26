@@ -8,7 +8,11 @@
 
 
 ### Tech stack ⚒️ <br />
-<img src="https://img.shields.io/badge/React-222222?style=square&logo=react"> <img src="https://img.shields.io/badge/Next.Js-000000?style=square&logo=Next.JS"> <br /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=squarege&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/React-222222?style=square&logo=react"> <img src="https://img.shields.io/badge/Next.Js-000000?style=square&logo=Next.JS"> 
+  <br />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=squarege&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white">
+<br/>   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=square&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=square&logo=tailwindcss&logoColor=white"> 
+  
 
 ![so0112's GitHub stats](https://github-readme-stats.vercel.app/api?username=so0112&show_icons=true&)
 </div>
