@@ -4,8 +4,7 @@
 ### Hi there 👋 <br />
  <a href="https://so0112.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-263238?style=flat-square&logo=Tistory&logoColor=white"/></a>
  <a href="mailto:soshin0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<!--  <a href="https://so0112.notion.site/015401d0094e48458e504d2f4e10e480" target="_blank"><img src="https://img.shields.io/badge/Resume-005FF9?style=flat-square&logo=Notion&logoColor=white"/></a> -->
-<a href="https://soshin.vercel.app/project" target="_blank">
+<a href="https://soshin.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
 </a>
 
 
